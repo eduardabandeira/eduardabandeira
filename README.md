@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">Trabalhei com organização, tratamento e validação de bases de dados, análises estatísticas e controle de qualidade de pesquisas. Também desenvolvi ferramentas com IA para automatizar etapas desses processos, desde a validação de questionários e bases até análises e geração de relatórios.<br><br>Atualmente, estou aprofundando meus conhecimentos em Python, SQL e Inteligência Artificial, com interesse especial em ciência de dados, preparação de dados para modelos e experimentação de soluções de IA aplicadas a problemas reais.</p>
+<p data-importer="text" align="left">Atualmente, estou aprofundando meus conhecimentos em Python, SQL e Inteligência Artificial, com interesse especial em ciência de dados, preparação de dados para modelos e experimentação de soluções de IA aplicadas a problemas reais.</p>
 
 ###
 
