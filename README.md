@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Claude%20Team-Automa%C3%A7%C3%A3o%20com%20IA-374151?style=for-the-badge" height="28" alt="Claude Team" />
 </p>
 
-- **Experiência prática em dados e automação:** validação e tratamento de bases, IBM SPSS e fluxos com IA generativa (Claude Team) voltados a rotinas de pesquisa de mercado.
+- **Experiência prática em dados e automação:** validação e tratamento de bases, IBM SPSS e fluxos com IA generativa voltados a rotinas de pesquisa de mercado.
 - **Em aprofundamento:** Python (`pandas`, `NumPy`, `Streamlit`), SQL/MySQL, preparação de dados e experimentação com IA aplicada.
 - **Base acadêmica:** Git/GitHub e fundamentos de Java, Spring Boot e APIs REST.
 
