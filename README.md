@@ -6,11 +6,11 @@
 
 ###
 
-<p data-importer="text" align="left">Atualmente, estou aprofundando meus conhecimentos em Python, SQL e Inteligência Artificial, com interesse especial em ciência de dados, preparação de dados para modelos e experimentação de soluções de IA aplicadas a problemas reais.</p>
+<p data-importer="text" align="left">Atualmente, estou aprofundando meus conhecimentos em Python, SQL e Inteligência Artificial, com interesse especial em ciência de dados, preparação de dados para modelos e experimentação de soluções de IA.</p>
 
 ###
 
-<p data-importer="text" align="left">Neste GitHub, compartilho meus projetos, estudos e experimentos nessa área.</p>
+<p data-importer="text" align="left">Nesse GitHub compartilho meus projetos, estudos e experimentos nessa área :) </p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 - **Experiência prática em dados e automação:** validação e tratamento de bases, IBM SPSS e fluxos com IA generativa (Claude Team) voltados a rotinas de pesquisa de mercado.
 - **Em aprofundamento:** Python (`pandas`, `NumPy`, `Streamlit`), SQL/MySQL, preparação de dados e experimentação com IA aplicada.
-- **Base acadêmica (ADS):** Git/GitHub e fundamentos de Java, Spring Boot e APIs REST.
+- **Base acadêmica:** Git/GitHub e fundamentos de Java, Spring Boot e APIs REST.
 
 ###
 
@@ -39,7 +39,4 @@
 ### Projetos
 
 - **[rodizio_advance](https://github.com/eduardabandeira/rodizio_advance)** — Aplicação em Python e Streamlit para geração de rodízios balanceados em estudos, com auditoria de distribuição e exportação para Excel.
-- **[baozi-store](https://github.com/eduardabandeira/baozi-store)** — API REST acadêmica (UNINTER) em Java e Spring Boot com JPA e banco H2.
-- **[portfolio-eduarda](https://github.com/eduardabandeira/portfolio-eduarda)** — Portfólio pessoal estático publicado no GitHub Pages ([site](https://eduardabandeira.github.io/portfolio-eduarda/)).
-- **BandPath (`ieltsync` — privado / em pausa):** protótipo em Next.js, TypeScript e PostgreSQL (Supabase) com análise de séries temporais e projeções para estudos do IELTS.
-
+- **[baozi-store](https://github.com/eduardabandeira/baozi-store)** — API REST acadêmica em Java e Spring Boot com JPA e banco H2.
